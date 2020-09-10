@@ -7,5 +7,7 @@ Read the blogpost : https://medium.com/@sivajuly26_25823/accident-severity-code-
 
 ## Contents:
 DataScienceCapstoneProject_AccidentSeverity.ipynb - Python notebook with the code
+
 Data-Collisions.csv - Dataset used
+
 Report.pdf - Project report
